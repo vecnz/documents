@@ -104,7 +104,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
 8. The club shall not incur any substantial liability without the express consent of the Executive of the Association.
 
 ## 9. General Meetings
-1. The Annual General Meeting (AGM) of the Club shall be held in the first trimester of the year.
+1. The Annual General Meeting (AGM) of the Club shall be held near the end of the second trimester of the year.
   - Seven clear days notice shall be given of the meeting, including to the Association.
   - The regular business of the AGM shall be:
     1. To receive the Annual Report and Financial Statements.
