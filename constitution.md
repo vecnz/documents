@@ -1,7 +1,7 @@
 # Victoria Engineering Club
 ### Constitution
 
-Last modified: Mar 2013
+Last modified: Mar 2016
 
 ## 1. Name
 The name of club shall be Victoria Engineering Club. (hereinafter called "the Club")
