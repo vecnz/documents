@@ -1,7 +1,7 @@
 # Victoria Engineering Club
 ### Constitution
 
-Last modified: Mar 2016
+Last modified: 13 October, 2017
 
 ## 1. Name
 The name of club shall be Victoria Engineering Club. (hereinafter called "the Club")
@@ -52,9 +52,10 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Secretary
     - Treasurer
     - Cultural Council Representative(s)
+    - Staff Representative
     - Any five (5) other Committee members, as shall be determined by the Club.
 
-    The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM.
+    The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM, with the exception of the Staff Representative, which shall be selected from the Victoria University of Wellington School of Engineering and Computer Science (hereinafter called "the department") staff by the rest of the executive, with advice of the department.
 
     The Cultural Council Representative(s), may also hold other positions.
 
@@ -133,7 +134,6 @@ The Club shall be wound up either:
 1. 12 months after failing to re-affiliate as set out in Clause 4 of this Constitution (unless the club is re-affiliated before that time).
 
 In the event of winding up, all funds and assets of the Club shall revert to the Association, to dispose of at its absolute discretion.
-
 
 
 
