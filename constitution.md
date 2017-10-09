@@ -88,6 +88,9 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Regulate club spending and provide financial advice for all club activities and major events.
     - Provide the committee and VUWSA with audited accounts at the end of the financial year before 30th April.
     - Actively seek new fundraising opportunities and inform the club of any chances to raise some extra funds.
+1. Womens' Representative
+    - To liaise with women within the department, and within the membership of the club, and to represent them in meetings of the clubs' committee.
+    - To assist in the organisation and execution of the events and functions of the club.
 1. Cultural Council Representatives
     - To represent the Club at all meetings of the Association Cultural Council
     - To keep the Council and the Club informed of the activities of both.
