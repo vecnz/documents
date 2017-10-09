@@ -52,6 +52,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Secretary
     - Treasurer
     - Cultural Council Representative(s)
+    - Womens' Representative
     - Any five (5) other Committee members, as shall be determined by the Club.
 
     The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM.
