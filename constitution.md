@@ -88,6 +88,10 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Regulate club spending and provide financial advice for all club activities and major events.
     - Provide the committee and VUWSA with audited accounts at the end of the financial year before 30th April.
     - Actively seek new fundraising opportunities and inform the club of any chances to raise some extra funds.
+1. Staff Representative
+    - To liaise with the department, and to represent the interests of the department in meetings of the Clubs' committee.
+    - To keep the Department and the Club informed of the activities of both.
+    - To advise the Club's Committee on the organisation and execution of the various events and functions of the Club.
 1. Cultural Council Representatives
     - To represent the Club at all meetings of the Association Cultural Council
     - To keep the Council and the Club informed of the activities of both.
