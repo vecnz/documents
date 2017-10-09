@@ -1,7 +1,7 @@
 # Victoria Engineering Club
 ### Constitution
 
-Last modified: Mar 2016
+Last modified: 13 October 2017
 
 ## 1. Name
 The name of club shall be Victoria Engineering Club. (hereinafter called "the Club")
@@ -64,6 +64,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
 
     Due to their importance, the executive roles of president, secretary and treasurer should, where practical, be held by members in their second year or later of tertiary study. Preference will be given to existing committee members and those who have proven reliability and/or experience.
 
+
 1. The Committee shall have the power to generally carry out the aims, objectives and rules of the Club and to manage all Club affairs.
 1. Any member of the Committee shall resign if called upon to do so by simple majority of a General meeting of the Club.
 
@@ -90,6 +91,8 @@ In the event of the Club not re-affiliating to the Association within 6 months o
 1. Cultural Council Representatives
     - To represent the Club at all meetings of the Association Cultural Council
     - To keep the Council and the Club informed of the activities of both.
+1. Other Members of the Committee
+    - To advise, and assist in the organisation and execution of the various events and functions of the club
 
 ## 8. Finance
 1. The Club's Financial Year shall be set by the Committee, provided that Annual Accounts are prepared and audited for approval at the AGM.
