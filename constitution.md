@@ -1,7 +1,9 @@
 # Victoria Engineering Club
 ### Constitution
 
-Last modified: 13 October 2017
+
+Last modified: 13 October, 2017
+
 
 ## 1. Name
 The name of club shall be Victoria Engineering Club. (hereinafter called "the Club")
@@ -52,10 +54,11 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Secretary
     - Treasurer
     - Cultural Council Representative(s)
+    - Staff Representative
     - Womens' Representative
     - Any five (5) other Committee members, as shall be determined by the Club.
 
-    The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM.
+    The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM, with the exception of the Staff Representative, which shall be selected from the Victoria University of Wellington School of Engineering and Computer Science (hereinafter called "the department") staff by the rest of the executive, with advice of the department.
 
     The Cultural Council Representative(s), may also hold other positions.
 
@@ -89,6 +92,10 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Regulate club spending and provide financial advice for all club activities and major events.
     - Provide the committee and VUWSA with audited accounts at the end of the financial year before 30th April.
     - Actively seek new fundraising opportunities and inform the club of any chances to raise some extra funds.
+1. Staff Representative
+    - To liaise with the department, and to represent the interests of the department in meetings of the Clubs' committee.
+    - To keep the Department and the Club informed of the activities of both.
+    - To advise the Club's Committee on the organisation and execution of the various events and functions of the Club.
 1. Womens' Representative
     - To liaise with women within the department, and within the membership of the club, and to represent them in meetings of the clubs' committee.
     - To assist in the organisation and execution of the events and functions of the club.
@@ -140,7 +147,6 @@ The Club shall be wound up either:
 1. 12 months after failing to re-affiliate as set out in Clause 4 of this Constitution (unless the club is re-affiliated before that time).
 
 In the event of winding up, all funds and assets of the Club shall revert to the Association, to dispose of at its absolute discretion.
-
 
 
 
