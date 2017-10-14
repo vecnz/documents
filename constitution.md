@@ -1,7 +1,9 @@
 # Victoria Engineering Club
 ### Constitution
 
+
 Last modified: 13 October, 2017
+
 
 ## 1. Name
 The name of club shall be Victoria Engineering Club. (hereinafter called "the Club")
@@ -53,6 +55,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - Treasurer
     - Cultural Council Representative(s)
     - Staff Representative
+    - Womens' Representative
     - Any five (5) other Committee members, as shall be determined by the Club.
 
     The Committee shall be elected at each Annual General Meeting, and shall hold office until the next AGM, with the exception of the Staff Representative, which shall be selected from the Victoria University of Wellington School of Engineering and Computer Science (hereinafter called "the department") staff by the rest of the executive, with advice of the department.
@@ -64,6 +67,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     If any member of the Committee should die, resign, or absent themselves from three consecutive meetings without leave, the Committee may appoint a successor.
 
     Due to their importance, the executive roles of president, secretary and treasurer should, where practical, be held by members in their second year or later of tertiary study. Preference will be given to existing committee members and those who have proven reliability and/or experience.
+
 
 1. The Committee shall have the power to generally carry out the aims, objectives and rules of the Club and to manage all Club affairs.
 1. Any member of the Committee shall resign if called upon to do so by simple majority of a General meeting of the Club.
@@ -92,9 +96,14 @@ In the event of the Club not re-affiliating to the Association within 6 months o
     - To liaise with the department, and to represent the interests of the department in meetings of the Clubs' committee.
     - To keep the Department and the Club informed of the activities of both.
     - To advise the Club's Committee on the organisation and execution of the various events and functions of the Club.
+1. Womens' Representative
+    - To liaise with women within the department, and within the membership of the club, and to represent them in meetings of the clubs' committee.
+    - To assist in the organisation and execution of the events and functions of the club.
 1. Cultural Council Representatives
     - To represent the Club at all meetings of the Association Cultural Council
     - To keep the Council and the Club informed of the activities of both.
+1. Other Members of the Committee
+    - To advise, and assist in the organisation and execution of the various events and functions of the club
 
 ## 8. Finance
 1. The Club's Financial Year shall be set by the Committee, provided that Annual Accounts are prepared and audited for approval at the AGM.
