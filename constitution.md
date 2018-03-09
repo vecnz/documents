@@ -14,6 +14,8 @@ The objects of the club shall be to:
 1. Allow students to have the opportunity to engage with other students in the engineering programme
 1. Participate in activities and get help from senior students if needed.
 1. To promote good fellowship amongst its members, members of other University Clubs and members of the wider community.
+1. To represent the interests of students of the Faculty of Engineering and
+   Computer Science.
 
 These objects shall not be inconsistent with the Goals, Constitution and Rules of Victoria University of Wellington Students' Association and Te Ropu Tauira o te Kura Wananga o te Upoko o te Ika a Maui Incorporated (hereinafter called "the Association").
 
@@ -37,6 +39,8 @@ These Powers shall be subject in all respects to the Constitution and Rules of t
 The Club shall be affiliated to the Association, in accordance with, and subject to Part VI, Section 1(1) of the Constitution of Association.
 
 The Club shall re-affiliate every year by the date set by the Association Executive, in accordance with Part VI, Section 1(2) of the Constitution of the Association.
+
+The Club shall be affiliated to the Association as a Representative Groupl
 
 In the event of the Club not re-affiliating to the Association within 6 months of the date set, the Club shall cease to function, and all assets and property shall be held in trust by the Association for a further 6 months, and shall thereafter become the property of the Association, unless before that time the Club is re-affiliated.
 
