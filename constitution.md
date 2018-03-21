@@ -1,8 +1,7 @@
 # Victoria Engineering Club
 ### Constitution
 
-
-Last modified: 13 October, 2017
+Last modified: 16 March, 2018
 
 
 ## 1. Name
@@ -79,6 +78,7 @@ In the event of the Club not re-affiliating to the Association within 6 months o
 
 1. The Committee shall have the power to generally carry out the aims, objectives and rules of the Club and to manage all Club affairs.
 1. Any member of the Committee shall resign if called upon to do so by simple majority of a General meeting of the Club.
+1. Any of the other committee members shall be appointed by the elected members of the committee by a simple majority.
 
 ## 7. Duties of Officers
 
