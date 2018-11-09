@@ -68,7 +68,7 @@ members of the clubs's leadership.
 ## Student Conduct Statute
 
 Any behaviour that the committee deems could be in violation of the
-[Student Conduct Statute][https://www.victoria.ac.nz/documents/policy/student-policy/student-conduct-statute.pdf]
+[Student Conduct Statute](https://www.victoria.ac.nz/documents/policy/student-policy/student-conduct-statute.pdf)
 may be reported to the university and further action taken as defined in the statute.
 
 A copy of the statue can be found at https://www.victoria.ac.nz/documents/policy/student-policy/student-conduct-statute.pdf
