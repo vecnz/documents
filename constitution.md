@@ -85,7 +85,7 @@ In the event of the Club not re-affiliating to the appropriate University body w
     - Assist the president in planning and promoting their long term plans for the club and in their efforts towards recruiting new members on a regular basis.
     - Ensure that all parts of the committee are correctly working together for the best interests of the club and to support each position where needed.
 1. Secretary
-    - Take notes and minutes of the club meetings and publish both the agenda and the minutes in a timely manner to all in the club.
+    - Take notes and minutes of the club meetings and publish both the (necessarily redacted) agenda and the (necessarily redacted) minutes in a timely manner to all in the club by publishing them on the club github (github.com/vecnz).
     - Provide the club with current and accurate contacts of all members so information can be passed on when needed.
     - Receive all correspondence for the club and distribute it as required.
 1. Treasurer
