@@ -136,7 +136,7 @@ In the event of the Club not re-affiliating to the appropriate University body w
 
 ## 10. Communications
 
-All replies to communications sent to contact@vec.ac.nz must CC ("Carbon Copy") contact@vec.ac.nz or be sent through contact@vec.ac.nz as an alias, and request that the external party reply to contact@vec.ac.nz.
+Conversations originating in contact@vec.ac.nz or which pertain to the club as a whole must be contained/copied in contact@vec.ac.nz. All replies to communications sent to contact@vec.ac.nz must CC ("Carbon Copy") contact@vec.ac.nz or be sent through contact@vec.ac.nz as an alias, and request that the external party reply to contact@vec.ac.nz.
 
 ## 11. Alterations to this Constitution
 
