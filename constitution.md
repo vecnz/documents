@@ -54,15 +54,13 @@ In the event of the Club not re-affiliating to the appropriate University body w
     - Vice-President
     - Secretary
     - Treasurer
-    - Cultural Council Representative(s)
+    - Cultural Council Representative(s) (VUWSA Representative)
     - Staff Representative
     - Womens' Representative
     - Chief Technical Officer
     - Any other Committee members, as shall be determined by the Club.
 
-    The positions of President, Vice-President, Secretary, Treasurer, any Cultural Council Representative, and Womens' Representative shall be elected at each Annual General Meeting, and shall hold office until the next AGM, with the exception of the Staff Representative, which shall be selected from the Victoria University of Wellington School of Engineering and Computer Science (hereinafter called "the department") staff by the rest of the executive, with advice of the department.
-
-    The Cultural Council Representative(s) and Chief Technical Officer, may also hold other positions within the Club Committee.
+    The positions of President, Vice-President, Secretary, Treasurer, any Cultural Council Representative, and Womens' Representative shall be elected at each Annual General Meeting, and shall hold office until the next AGM, with the exception of the Staff Representative, which shall be selected from the Victoria University of Wellington School of Engineering and Computer Science (hereinafter called "the department") staff by the rest of the executive, with advice of the department. With the exception of the President, Committee members may hold up to a maximum of two positions on the Committee.
 
     The quorum shall be four members.
 
@@ -87,7 +85,7 @@ In the event of the Club not re-affiliating to the appropriate University body w
     - Assist the president in planning and promoting their long term plans for the club and in their efforts towards recruiting new members on a regular basis.
     - Ensure that all parts of the committee are correctly working together for the best interests of the club and to support each position where needed.
 1. Secretary
-    - Take notes and minutes of the club meetings and publish both the agenda and the minutes in a timely manner to all in the club.
+    - Take notes and minutes of the club meetings and publish both the (necessarily redacted) agenda and the (necessarily redacted) minutes in a timely manner to all in the club by publishing them on the club github (github.com/vecnz).
     - Provide the club with current and accurate contacts of all members so information can be passed on when needed.
     - Receive all correspondence for the club and distribute it as required.
 1. Treasurer
@@ -123,9 +121,8 @@ In the event of the Club not re-affiliating to the appropriate University body w
   1. repossessing assets and property belonging to the Club in the event of the Club’s failure to re-affiliate to the Association pursuant to Section 4, for the purpose of those assets and property becoming the property of the Association.
 1. All the funds of the Club shall be paid into a bank determined by the Committee, to the credit of the Club. All accounts shall be approved for payment by the Committee.
 1. The Club shall inform the Association of the number of its bank account, its location and the current balance on request by the Association.
-1. All accounts shall be paid by cheque whenever possible.
 1. Any Membership fees (as in Section 5) shall be set and reviewed annually by the Committee, subject to any motion at a General Meeting of the Club, and if such a fee is not waived, that such a fee shall not be less than five (5) dollars.
-1. The club shall not incur any substantial liability without the express consent of the Executive of the Association.
+1. The Club shall not incur any substantial liability without the express consent of the Executive of the Association.
 
 ## 9. General Meetings
 
@@ -137,23 +134,25 @@ In the event of the Club not re-affiliating to the appropriate University body w
 2. A Special General Meeting of members may be called at any time by the Committee, or by request of not less than 10 members of the Club.
 3. The quorum of all general meetings shall be 15 members of the Club.
 
+## 10. Communications
 
-## 10. Alterations to this Constitution
+Conversations originating in contact@vec.ac.nz or which pertain to the club as a whole must be contained/copied in contact@vec.ac.nz. All replies to communications sent to contact@vec.ac.nz must CC ("Carbon Copy") contact@vec.ac.nz or be sent through contact@vec.ac.nz as an alias, and request that the external party reply to contact@vec.ac.nz.
 
-Any of the clauses of this constitution (except Clause 11) may be altered, or new ones included, at a general meeting of Club members, provided that such alterations shall not be valid until ratified by the Association Executive.
+## 11. Alterations to this Constitution
 
-Notice of any proposed alterations shall be given at least seven clear days
-in advance of the meeting called to consider them.
+Any of the clauses of this constitution (except Clause 12: Interpretation of this Constitution) may be altered, or new ones included, at a general meeting of Club members, provided that such alterations shall not be valid until ratified by the Association Executive.
+
+Notice of any proposed alterations shall be given at least seven clear days in advance of the meeting called to consider them.
 
 No addition to or alteration of the non-profit aims, personal benefit clause or the winding up clause shall be approved without the approval of the Inland Revenue Department. And the provisions and effect of this clause shall not be removed from this document and shall be included and implied into any document replacing this document.
 
-## 11. Interpretation of this Constitution
+## 12. Interpretation of this Constitution
 
 In all respects this constitution shall be subject to the Constitution of the Association, and where it conflicts with it, it shall be null and void in that respect.
 
 Should any dispute as to the interpretation of any part of this constitution arise, the dispute shall be referred to the Executive of the Association, whose decision shall be final.
 
-## 12. Winding Up
+## 13. Winding Up
 
 The Club shall be wound up either:
 
