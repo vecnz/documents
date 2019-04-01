@@ -45,7 +45,7 @@ threatening, offensive, or harmful.
 The Committee is also responsible for fulfilling their responsibilities within the Committee while ensuring their own behaviour does not obstruct the ability of the club to support members, or compromise the intgrity of the Club. Responsibilities of a member of the Committee include those detailed under the named role(s) the member holds, and any aditional responsibilities the member has voluntarily accepted.
 
 Miscellanious responsibilities which must be fulfilled by all Committee members are as follows:
-* Be contactable on discord
+* Be contactable via an approved messaging system
 * Attend meetings or excuse yourself from the meeting, being able to provide a reason if asked
 
 ## Scope
