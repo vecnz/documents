@@ -42,6 +42,12 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any member for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
+The Committee is also responsible for fulfilling their responsibilities within the Committee while ensuring their own behaviour does not obstruct the ability of the club to support members, or compromise the intgrity of the Club. Responsibilities of a member of the Committee include those detailed under the named role(s) the member holds, and any aditional responsibilities the member has voluntarily accepted.
+
+Miscellanious responsibilities which must be fulfilled by all Committee members are as follows:
+* Be contactable on discord
+* Attend meetings or excuse yourself from the meeting, being able to provide a reason if asked
+
 ## Scope
 
 This Code of Conduct applies both at club events and in public spaces
@@ -63,7 +69,9 @@ may be posted separately.
 
 Committee members who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
-members of the clubs's leadership.
+members of the clubs's leadership. A member of the Committee may be voted off of the
+Committee by a super majority (greater than or equal to 75% of those who vote, with a
+minimum of four votes required).
 
 ## Student Conduct Statute
 
@@ -83,3 +91,42 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
+## Secretary responsibilities
+
+The Secretary of the club must fulfil the responsibilities as follows:
+### Taking minutes
+Focus on recording the most noteable points of the meeting:
+* Tasks
+  * Description of task
+  * Who it has been assigned to
+  * The expected completion date
+* Descisions
+  * The issue being decided upon
+  * The decision made
+  * Reasoning behind the decision
+  * Points of contention, disagreement
+Record minutes in Google Docs. The file name should be the date the meeting took place, and the first part of the minutes should contain the date, time, location, those present, and those who have excused themselves from the meeting. If the Secretary is unable to attend a meeting, it is their reqponsibility to delegate minute-recording to an appropriate and willing attendee.
+### Publishing redacted minutes for public view
+Redacted minutes are required to be published on github in accordance with the Club Constitution. This should be done as follows:
+* Redact the following information by replacing words with "\[REDACTED\]":
+  * Names or contact information of external parties (not a member of the Committee) unless otherwise requested by said external party
+  * Names or contact information of members of the Committee who request their personal information to be redacted
+  * Financial figures
+  * Other information requested to be redacted by a majority of the Committee
+* Download the redacted version of the minutes as a PDF file. Make sure to save the non-redacted version in the Google Drive for exec use.
+* Upload the redacted PDF to the Club github repository.
+
+## President responsibilities
+
+The President of the club must fulfil the responsibilities as follows:
+### Maintain order and productivity at meetings
+* Keep conversation respectful, productive, and on-topic
+* Endeavour to deescalate or entirely avoid hostile or potentially-hostile conflict
+* Ensure decisions are made in a timely manner where possible.
+* Ensure clarity around roadblocks obstructing progress and intended action to overcome them
+### Confront problematic behaviour within the Committee
+* Confrontation should be facts-based
+* Address the exact behaviour which is problematic and needs to change
+* Address only to the applicable Committee members, if possible
+* Suggest the way in which the perpetrating member should behave differently
+* Ensure they understand why their behaviour is problematic, if possible
