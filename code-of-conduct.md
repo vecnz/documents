@@ -71,7 +71,10 @@ Committee members who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the clubs's leadership. A member of the Committee may be voted off of the
 Committee by a super majority (greater than or equal to 75% of those who vote, with a
-minimum of four votes required).
+minimum of four votes required). In this case, the entirety of the Committee must be
+aware of the vote taking place, and explicitly state which way they vote, or that they
+abstain from voting. The member who arranges the vote and the member about whom the voting
+is taking place may not vote.
 
 ## Student Conduct Statute
 
