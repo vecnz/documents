@@ -83,3 +83,22 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
+## Vice President responsibilities
+The Vice President of the club must fulfil the responsibilities as follows:
+### Assist the president with their responsibilities
+### Provide support for members of the club and of the exec
+
+## Chief Technical Officer responsibilities
+The Chief Technical Officer of the club must fulfil the responsibilities as follows:
+### Maintain the VEC Virtual Private Server
+* Check for updates and perform general maintanance
+* Maintain web certificates
+* Maintain domains
+* Maintain updates for WordPress
+### Configure the networking hardware when required
+* Set up network switches and the network router for events, or in cases where you are not available, organise with the exec for someone else to set up networks
+* Provide support for people at events when they have technical problems using our infrastructure
+### Maintain our PC hardware
+* Keep systems up to date
+* Maintain an image for provisioning PCs
+* Maintain windows on our PCs, and re-provision if required
