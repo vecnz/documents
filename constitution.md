@@ -117,8 +117,8 @@ In the event of the Club not re-affiliating to the appropriate University body w
 1. The Club's Financial Year shall be set by the Committee, provided that Annual Accounts are prepared and audited for approval at the AGM.
 1. The trustees of the Club's bank account shall be the President, Treasurer and any one other officer to be selected by the Committee. Any two of these three persons may sign on the Club's account.
 1. The President of the Association shall be a signatory by proxy to every Club bank account for the limited purpose of:
-  1. holding assets and property in trust for the cub in the event of the Club’s failure to reaffiliate to the Association pursuant to Section 4; or
-  1. repossessing assets and property belonging to the Club in the event of the Club’s failure to re-affiliate to the Association pursuant to Section 4, for the purpose of those assets and property becoming the property of the Association.
+    1. holding assets and property in trust for the cub in the event of the Club’s failure to reaffiliate to the Association pursuant to Section 4; or
+    1. repossessing assets and property belonging to the Club in the event of the Club’s failure to re-affiliate to the Association pursuant to Section 4, for the purpose of those assets and property becoming the property of the Association.
 1. All the funds of the Club shall be paid into a bank determined by the Committee, to the credit of the Club. All accounts shall be approved for payment by the Committee.
 1. The Club shall inform the Association of the number of its bank account, its location and the current balance on request by the Association.
 1. Any Membership fees (as in Section 5) shall be set and reviewed annually by the Committee, subject to any motion at a General Meeting of the Club, and if such a fee is not waived, that such a fee shall not be less than five (5) dollars.
